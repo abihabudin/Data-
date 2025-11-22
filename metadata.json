@@ -1,0 +1,5 @@
+{
+  "name": "NexData Entry",
+  "description": "A smart, AI-powered data entry application featuring manual input, unstructured text parsing via Gemini 2.5, and real-time data visualization.",
+  "requestFramePermissions": []
+}
